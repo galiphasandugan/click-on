@@ -3,10 +3,6 @@ const body = document.querySelector("body");
 const audio = document.querySelector("audio");
 const color = ["#fff","purple","tomate" ,"green", "gray", "black", "orange", "brown"]
 
-body.style.backgroundColor ="blue";
-button.style.fontSize = "20px";
-button.style.color ="white";
-
 button.addEventListener("click", result)
 
 function result(){
